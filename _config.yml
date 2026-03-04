@@ -104,11 +104,6 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: matery
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
-
 search:
   path: search.xml
   field: post
