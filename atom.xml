@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>John Doe</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://jfhu9527.github.io/lanhu/</id>
+  <link href="https://jfhu9527.github.io/lanhu/" rel="alternate"/>
+  <link href="https://jfhu9527.github.io/lanhu/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, John Doe</rights>
+  <subtitle>深入思考，深入生活</subtitle>
+  <title>蓝狐</title>
+  <updated>2026-03-06T11:50:11.593Z</updated>
+  <entry>
+    <author>
+      <name>John Doe</name>
+    </author>
+    <id>https://jfhu9527.github.io/lanhu/posts/16107.html</id>
+    <link href="https://jfhu9527.github.io/lanhu/posts/16107.html"/>
+    <published>2026-03-06T11:50:11.593Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a>]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-03-06T11:50:11.593Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>John Doe</name>
+    </author>
+    <category term="Markdown" scheme="https://jfhu9527.github.io/lanhu/categories/Markdown/"/>
+    <category term="Typora" scheme="https://jfhu9527.github.io/lanhu/tags/Typora/"/>
+    <category term="Markdown" scheme="https://jfhu9527.github.io/lanhu/tags/Markdown/"/>
+    <id>https://jfhu9527.github.io/lanhu/posts/25698.html</id>
+    <link href="https://jfhu9527.github.io/lanhu/posts/25698.html"/>
+    <published>2018-09-07T01:25:00.000Z</published>
+    <title>typora-vue-theme主题介绍</title>
+    <updated>2026-03-06T11:50:11.593Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>John Doe</name>
+    </author>
+    <category term="Markdown" scheme="https://jfhu9527.github.io/lanhu/categories/Markdown/"/>
+    <category term="Typora" scheme="https://jfhu9527.github.io/lanhu/tags/Typora/"/>
+    <category term="Markdown" scheme="https://jfhu9527.github.io/lanhu/tags/Markdown/"/>
+    <id>https://jfhu9527.github.io/lanhu/posts/25697.html</id>
+    <link href="https://jfhu9527.github.io/lanhu/posts/25697.html"/>
+    <published>2018-09-07T01:25:00.000Z</published>
+    <summary>
+      <![CDATA[<figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span]]>
+    </summary>
+    <title>typora-vue-theme主题介绍</title>
+    <updated>2026-03-06T11:52:01.514Z</updated>
+  </entry>
+</feed>
